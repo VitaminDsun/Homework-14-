@@ -3,7 +3,7 @@ console.log('This is app.js');
 
 // Note: This code was adapted from the Homework 14 tutorial Dom gave on 27Sep2022
 
-// --worked with TA's and other studends to develop tables and schemata and code
+// --worked with TA's and other studends to develop code
 
 
 // Define a global variable to hold the URL
